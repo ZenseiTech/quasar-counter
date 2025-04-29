@@ -37,3 +37,11 @@ https://fonts.google.com/icons?selected=Material+Icons+Outlined:restart_alt:&ico
 ### Video tutorial
 
 https://www.youtube.com/watch?v=PjCqsf87Z1Y&t=79s
+
+### To run on Android or IOS
+
+quasar dev -m capacitor -T [android|ios]
+
+### To run on the browser
+
+quasar dev
