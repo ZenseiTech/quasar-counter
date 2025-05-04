@@ -9,7 +9,7 @@
         input-class="text-center text-h5 text-white"
         color="teal"
         filled
-        placeholder="Counter" />
+        placeholder="The Counter" />
     </div>
     <div class="row full-width items-center">
       <div class="col text-center">
@@ -54,15 +54,12 @@
   /*
     imports
   */
-
   import { reactive, watch } from 'vue'
   import { useQuasar } from 'quasar'
 
   /*
     quasar
   */
-
-
   const $q = useQuasar()
 
 
